@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "abis",
+    "slug": "abis",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "abis"
+}
